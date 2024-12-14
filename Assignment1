@@ -1,0 +1,10 @@
+1. Messages:
+    - Any Statement send to the model and model generates response according to the received statement is known as Message. 
+    - Example: A user sends the math equation and model generate the answer and send back. The math equation is known as message here.
+2. Model:
+    - Any Trained Algorithm which can perform specific task.
+    - Image Generation, text analyze.
+3. Max Completion Tokens:
+    - Maximum number of words and characters that the model is allowed to repsone to a given Input
+    - A user asks, "Summarize this article." If the model's maximum token limit is set to 50, the response will be a concise summary containing no more than 50 tokens.
+4. 
