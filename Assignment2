@@ -1,0 +1,5 @@
+API:  Communication bridge between front-end to back-end and vice versa. E.g. if I go to some restaurants the waiter gave me the menu card that is the front-end ui of restaurant the kitchen where the meal will prepare the order is the back-end of the restaurant, the waiter is the middle man so waiter is the API.
+SDK: A collection of tools and resources that developers use to create applications for a specific platform or operating system.
+Web APIs: APIs specifically designed for web applications, allowing them to interact with other web services (e.g., for data exchange, authentication).
+Library APIs: APIs that provide access to specific functionalities within a programming library (e.g., for mathematical calculations, image processing).
+Prompting and Completion: Input (prompt/Message sent to some model) is used to generate an output (completion) by a language model.
