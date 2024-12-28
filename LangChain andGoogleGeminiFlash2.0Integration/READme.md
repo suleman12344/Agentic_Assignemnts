@@ -8,9 +8,7 @@ This repository contains a Colab Notebook demonstrating the integration of LangC
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [License](#license)
+
 
 ## Introduction
 
